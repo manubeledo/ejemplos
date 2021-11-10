@@ -1,1 +1,0 @@
-valor estatico pertenece a una variable de clase
